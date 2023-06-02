@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fa-fw {
+    margin-top: 23px;
+}
+.fa-suitcase{
+    margin-top: 13px;
+}
+
+.fa-certificate{
+    font-size: 30px;
+    margin-top: 9px;
+   
+}
+.hero2{
+    font-size: 30px;
+  
+
+
+}
+
+.prog{
+    height: 20px;
+}
+.fa-suitcase{
+ 
+    font-size: 25px;
+}
