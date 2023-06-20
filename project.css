@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    box-sizing: border-box;
+}
+
+.prog{
+    height: 30px;
+
+}
+.level{
+    height: 25px;
+}
+.size{
+    font-size: 20px;
+}
+.size2{
+    font-size: 30px;
+}
+.color{
+    background-color: gray !important;
+}
+.color2{
+    background-color: rgb(97, 97, 97);
+}
+.change:hover{
+    background-color: white;
+}
+.bt:hover{
+    background-color: white;
+}
+.photo{
+    width: 20%;
+}
+.side{
+    width: 10%;
+}
+
+.icon{
+    font-size: 35px;
+    padding-left: 10px;
+}
+.fo{
+    font-size: 13px;
+}
+.right{
+    width: 100% !important;
+    
+}
+.fontsize{
+    font-size: 25px;
+
+}
+
+@media (min-width:900px){
+    .right{
+        padding-left: 2rem !important;
+        width: 80% !important;
+       
+    }
+}
+@media(min-width:768px) and (max-width:1001px){
+
+    .side{
+        width: 14%;
+       
+   
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+  
+    .right{
+        width: 80% !important;
+        
+    }
+}
+
+
+
+    
